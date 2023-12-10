@@ -29,6 +29,8 @@ For this project get started we perform such steps for stroke prediction, follow
 
 **Data Preprocessing**
 
+**Exploratory Data Analysis**
+
 **Model Training**
 
 **Prediction**
